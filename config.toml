@@ -8,4 +8,4 @@ canonifyurls = true
 title = "Lee Ogilvie's Site"
 theme = "hugo-zen"
 [params]
-  logo = "/logo10.png"
+  logo = "/images/logo.png"
