@@ -7,5 +7,6 @@ baseurl = "https://charlatan.io/lee"
 canonifyurls = true
 title = "Lee Ogilvie's Site"
 theme = "hugo-zen"
+copyright = "2016 Lee Ogilvie"
 [params]
   logo = "/images/logo.png"
