@@ -9,6 +9,8 @@ date = "2016-05-08T20:23:08-04:00"
 
 +++
 
+<i>Originally posted at <a href="http://beltlandia.com/pourovers-with-a-punch-at-condesa-coffee/">beltlandia.com</a>.</i>
+
 ![alt text](/images/condesa-1.jpg "Condesa Storefront")
 
 My sister and I have been meeting for weekly constitutionals on the BeltLine lately and we stopped at Condesa Coffee on our most recent excursion. Since she lives in the suburbs and is hoping to attend Tech in the next couple of years, she is keen to find study-worthy coffee shops for when she finally takes the big step towards an engineering degree. We started on the Eastside trail and made our way via the Freedom Parkway trail to Condesa. It took a little longer than expected since we got a bit lost, but after much sisterly banter (resulting in idle threats of being left on the side of the road), we were finally able to seek refuge.
@@ -22,6 +24,3 @@ I have since returned for a solo visit and got a pourover, as recommended by a d
 Aside from homemade syrups for specialty drinks and sustainably-sourced coffee selections, Condesa also offers a small menu of appealing lunch and dinner options along with a collection of cocktails. I look forward to my next visit where I will get to engage in one of my favorite activities: enjoying libations while traffic dies down!
 
 Parking is limited to John Wesley Dobbs, Cain Street, and under the Tribute Lofts where it’s free for two hours if you are lucky enough to find a spot in the deck! I highly recommend walking since there are so many ways to go on foot. They also have a second location less than a mile away off Auburn Avenue by Five Points, a convenient choice for Georgia State students!
-
-
-<i>Originally posted at <a href="http://beltlandia.com/pourovers-with-a-punch-at-condesa-coffee/">beltlandia.com</a>.</i>

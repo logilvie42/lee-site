@@ -9,6 +9,8 @@ date = "2016-09-08T10:45:02-04:00"
 
 +++
 
+<i>Originally posted at <a href="http://beltlandia.com/craft-cold-brew-at-chrome-yellow/">beltlandia.com</a>.</i>
+
 ![alt text](/images/chrome-yellow-1.jpg "Chrome Yellow Exterior")
 
 It was a lovely overcast Saturday in Atlanta, punctuating what I would say was the nicest week we’ve had this summer. When it’s 75 outside, it makes it really easy to leave the house on a whim, so I moseyed on over Chrome Yellow Trading Co. for my morning cup. If you couldn’t tell by now, I really enjoy getting to places right when they open because it’s not terribly crowded and I can feel a lot more present in my day. So the parking lot was bereft of cars, as was the coffee shop. Just me, two runners taking a breather, and the barista.
@@ -24,8 +26,3 @@ Stumptown cold brew coffee hits with a sweet tang of honey mixed with hints of c
 Admittedly, Chrome Yellow's storefront is very minimalist in appearance, making it incredibly unassuming and it could easily be overlooked. Their parking lot is relatively limited with some additional room available on the intersecting street, catering more towards pedestrians and cyclists. If you find yourself on Edgewood in need of a pick-me-up in this torturous heat, pay them a visit!
 
 ![alt text](/images/chrome-yellow-2.jpg "Chrome Yellow Counter")
-
-
-
-
-<i>Originally posted at <a href="http://beltlandia.com/craft-cold-brew-at-chrome-yellow/">beltlandia.com</a></i>

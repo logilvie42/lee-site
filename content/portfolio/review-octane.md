@@ -9,6 +9,8 @@ date = "2016-10-15T11:56:02-04:00"
 
 +++
 
+<i>Originally posted at <a href="http://beltlandia.com/flavorful-coffee-for-fall-at-octane/">beltlandia.com</a>.</i>
+
 ![alt text](/images/octane-1.jpg "Octane Store Front")
 
 Octane Coffee Bar is one of Atlanta's mostly highly celebrated coffee institutions. Starting on the West Side in 2003, they have steadily expanded their business to several locations around town. In 2011, they opened their Grant Park location across the street from Oakland Cemetery and a stone’s throw from the BeltLine. They've joined up with The Little Tart, an outstanding local bakery.
@@ -22,6 +24,3 @@ I couldn't figure out what I wanted exactly because I know anything I get from h
 Parking at Octane can be a little tricky for those by car, as Six Feet Under has claimed a good portion of the parking lot, but there is ample parking for cyclists. As it is the season, I recommend getting your coffee to go as you wander through Oakland Cemetery on one of their <a href="http://www.oaklandcemetery.com/?event=capturing-the-spirit-of-oakland-halloween-tours"> Halloween ghost tours</a>. But even if you find yourself just cresting over from Cabbagetown into Grant Park, stop by Octane to fuel the rest of your journey! 
 
 ![alt text](/images/octane-2.jpg "Cortado at Octane")
-
-
-<i>Originally posted at <a href="http://beltlandia.com/flavorful-coffee-for-fall-at-octane/">beltlandia.com</a></i>

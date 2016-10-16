@@ -9,6 +9,8 @@ tags = [
 
 +++
 
+<i>Originally posted at <a href="http://beltlandia.com/the-perks-of-being-an-early-bird-at-inman-perk-coffee/">beltlandia.com</a>.</i>
+
 ![alt text](/images/inman-perk-1.jpg "Inman Perk Exterior")
 
 July weather is in full force and it is not kidding around. Admittedly, my walks on the BeltLine have been few and far between as I mostly stay home, hugging my window unit and whispering sweet nothings into its vents. Hydration is of paramount importance, but water gets old and coffee sounds much better! So this morning I left the house early to go to Inman Perk Coffee right when it opened to beat the heat.
@@ -20,8 +22,3 @@ The barista recommended their iced coffee to me and I took him up on the offer. 
 In addition to their breakfast menu, they offer ice cream from Jake’s, another local establishment, as well as a full bar. Since I can’t really justify ice cream for breakfast and society frowns upon libation consumption in the early mornings, I definitely need to make a second visit. It was a quiet start to my day as I had the place to myself, but should you bring company with you on your visit, they have board games on the shelf for patrons. I suggest you take advantage of it and chill out in their A/C with an iced coffee or ice cream and a nice long game to beat the afternoon’s belligerent sun.
 
 ![alt text](/images/inman-perk-2.jpg "Yummy egg white and cheese sandwich")
-
-
-
-
-<i>Originally posted at <a href="http://beltlandia.com/the-perks-of-being-an-early-bird-at-inman-perk-coffee/">beltlandia.com</a>.</i>

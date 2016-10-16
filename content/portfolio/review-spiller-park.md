@@ -9,6 +9,8 @@ date = "2016-07-30T11:53:02-04:00"
 
 +++
 
+<i>Originally posted at <a href="http://beltlandia.com/signature-sips-snacks-and-service-at-spiller-park-coffee/">beltlandia.com</a>.</i>
+
 ![alt text](/images/spiller-park-1.jpg "Spiller Park Counter")
 
 Spiller Park is one of the newest coffee shops to hit Atlanta. Pitched as a “<a href="https://twitter.com/spillerpark">major league coffee shop</a>,” it started out as a little pop-up shop selling coffee and donuts in the morning. In October of last year, they opened their permanent location smack in the heart of the hustle and bustle of Ponce City Market, just down the spiraling staircase to the BeltLine.
@@ -22,6 +24,3 @@ As I sipped my coffee and browsed the counter, I saw another patron eating a pie
 Spiller Park has a baseball theme that I don’t entirely understand because I’m not familiar with baseball enough, but I always appreciate a cheeky aesthetic. Their tagline -- “Coffee so good we drink it ourselves”-- conveys a perfect blend of sarcasm and sincerity, a confidence in their product that doesn’t need to be affirmed by anybody else. The staff is professional, helpful, and genuinely sweet. I will definitely go back and make extra trips to PCM just for their coffee.
 
 ![alt text] (/images/spiller-park-2.jpg "Coffee at Spiller Park with Jody Davis")
-
-
-<i>Originally posted at <a href="http://beltlandia.com/signature-sips-snacks-and-service-at-spiller-park-coffee/">beltlandia.com</a></i>

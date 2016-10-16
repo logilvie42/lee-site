@@ -9,6 +9,8 @@ date = "2016-07-27T17:53:02-04:00"
 
 +++
 
+<i>Originally posted at <a href="http://beltlandia.com/posh-pastries-for-people-and-pups-at-parish/">beltlandia.com</a>.</i>
+
 ![alt text](/images/parish-1.jpg "Parish Exterior")
 
 On another cool and comfortable early Saturday morning before we were once more oppressed by humidity and relentless sunshine, Beltlandia beckoned me towards Parish: The Brasserie and Neighborhood Cafe. A name evocative of New Orleans, my second love, enticed me to check it out and may have clouded my notions about the restaurant a little. I arrived at the neighborhood cafe in the back just as they opened and it filled up fairly quickly within twenty minutes or so.
@@ -22,8 +24,3 @@ As I waited for my breakfast, I realized that I had gotten to Parish just in tim
 Parish seems to be a popular favorite of Inman Park denizens, and I can totally see why. I look forward to another visit for lunch because they have some enticing salads I would like to try. Had they had them available for breakfast, I frankly would have chosen one of those instead! I would recommend Parish for a brunch date with family or a nice little romantic breakfast for you and your significant other. Parking is very limited behind the restaurant, so carpooling and walking are highly encouraged.
 
 ![alt text](/images/parish-2.jpg "Parish Interior")
-
-
-
-
-<i>Originally posted at <a href="http://beltlandia.com/posh-pastries-for-people-and-pups-at-parish/">beltlandia.com</a></i>.
