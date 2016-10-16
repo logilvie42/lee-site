@@ -8,5 +8,6 @@ canonifyurls = true
 title = "Lee Ogilvie's Site"
 theme = "hugo-zen"
 copyright = "2016 Lee Ogilvie"
+pluralizelisttitles = false
 [params]
   logo = "/images/logo.png"
