@@ -11,3 +11,4 @@ copyright = "2016 Lee Ogilvie"
 pluralizelisttitles = false
 [params]
   logo = "/images/logo.png"
+  email = "ogilvie.lee@gmail.com"
