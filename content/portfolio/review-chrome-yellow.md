@@ -5,7 +5,7 @@ tags = [
   "review",
 ]
 title = "Craft Cold Brew at Chrome Yellow"
-date = "2016-10-15T10:45:02-04:00"
+date = "2016-09-08T10:45:02-04:00"
 
 +++
 
@@ -24,3 +24,8 @@ Stumptown cold brew coffee hits with a sweet tang of honey mixed with hints of c
 Admittedly, Chrome Yellow's storefront is very minimalist in appearance, making it incredibly unassuming and it could easily be overlooked. Their parking lot is relatively limited with some additional room available on the intersecting street, catering more towards pedestrians and cyclists. If you find yourself on Edgewood in need of a pick-me-up in this torturous heat, pay them a visit!
 
 ![alt text](/images/chrome-yellow-2.jpg "Chrome Yellow Counter")
+
+
+
+
+<i>Originally posted at <a href="http://beltlandia.com/craft-cold-brew-at-chrome-yellow/">beltlandia.com</a></i>
