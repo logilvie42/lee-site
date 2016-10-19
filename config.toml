@@ -10,5 +10,6 @@ theme = "hugo-zen"
 copyright = "2016 Lee Ogilvie"
 pluralizelisttitles = false
 [params]
-  logo = "/images/logo.png"
+#  logo = "/images/logo.png"
+  logo = "/images/avatar.png"
   email = "ogilvie.lee@gmail.com"
