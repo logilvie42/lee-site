@@ -9,7 +9,7 @@ title = "Farmers’ Market Fridays: Rise ‘N Shine with Sweet Potatoes"
 
 +++
 
-
+<i>Originally posted at <a href="http://beltlandia.com/farmers-market-fridays-rise-n-shine-with-sweet-potatoes/">beltlandia.com</a>.</i>
 
 ![alt text](/images/fmf-sweet-potatoes-1.jpg "Rise 'N Shine Organic Farm's booth")
 
